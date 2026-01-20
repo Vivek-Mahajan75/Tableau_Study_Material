@@ -41,4 +41,5 @@ Following standard SQL rules ensures consistency and portability across database
 - **Single-line comment:**
 ```sql
 -- This is a single-line comment
+/* comment */  This is a Multi-line comment
 
